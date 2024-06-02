@@ -1,2 +1,2 @@
-# LeetCode_Java
+# LeetCode
 LeetCode Algorithm Solutions
