@@ -1,8 +1,8 @@
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         int cnt = 1;
-        LinkedList <Character> temp2 = new LinkedList<>();
-        LinkedList <Integer> ans = new LinkedList<>();
+        HashSet<Character> temp2 = new HashSet<>();
+        LinkedList<Integer> ans = new LinkedList<>();
 
         for (int i = 0; i < s.length(); i++){
             temp2.add(s.charAt(i));
