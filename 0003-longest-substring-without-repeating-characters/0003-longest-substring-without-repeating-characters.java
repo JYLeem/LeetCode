@@ -20,8 +20,9 @@ class Solution {
             temp2.clear();
         }
 
-        ans.sort(Collections.reverseOrder());
+        TreeSet<Integer> treeSet = new TreeSet<>(Comparator.reverseOrder());
+        treeSet.addAll(ans);
         if (ans.isEmpty()) return 0;
-        else return (ans.get(0));
+        else return (treeSet.first());
     }
 }
