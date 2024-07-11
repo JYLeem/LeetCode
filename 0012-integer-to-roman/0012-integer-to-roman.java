@@ -1,14 +1,6 @@
 class Solution {
     public String intToRoman(int num) {
         StringBuilder sb = new StringBuilder();
-        HashMap<Integer, String> dic = new HashMap<>();
-        dic.put(1, "I");
-        dic.put(5, "V");
-        dic.put(10, "X");
-        dic.put(50, "L");
-        dic.put(100,"C");
-        dic.put(500, "D");
-        dic.put(1000, "M");
 
         while (num > 0) {
             if (num >= 1000){
