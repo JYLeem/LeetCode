@@ -4,25 +4,38 @@ class Solution {
         List<List<Integer>> ans = new ArrayList<>();
         visited = new boolean[nums.length];
 
-        Arrays.sort(nums);
-
-        backTracking(ans, new ArrayList<>(), nums);
+        backTracking(ans, new ArrayList<>(), nums, 0);
         
         return ans;
     }
 
-    private static void backTracking(List<List<Integer>> result, List<Integer> temp, int[] nums){
-        if (temp.size() == nums.length){
-            result.add(new ArrayList<>(temp));
+    private static void backTracking(List<List<Integer>> result, List<Integer> temp, int[] nums, int depth){
+        if (depth == nums.length){
+            if (result.size() == 0){
+                result.add(new ArrayList<>(temp));
+                return;
+            }
+
+            boolean key = false;
+            for (List<Integer> tmp : result){
+                if (Arrays.equals(tmp.toArray(), temp.toArray())){
+                    key = true;
+                    break;
+                }
+            }
+
+            if (!key){
+                result.add(new ArrayList<>(temp));
+            }
+            
             return;
         }
 
         for (int i = 0; i < nums.length; i++){
-            if(i > 0 && ! visited[i-1] && nums[i] == nums[i-1]) continue;
             if (!visited[i]){
                 visited[i] = true;
                 temp.add(nums[i]);
-                backTracking(result, temp, nums);
+                backTracking(result, temp, nums, depth + 1);
                 visited[i] = false;
                 temp.remove(temp.size() - 1);
             }
