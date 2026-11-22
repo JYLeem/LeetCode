@@ -8,6 +8,7 @@ LeetCode Algorithm Solutions
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JYLeem/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0130-surrounded-regions](https://github.com/JYLeem/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/JYLeem/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [1020-number-of-enclaves](https://github.com/JYLeem/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@ LeetCode Algorithm Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JYLeem/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/JYLeem/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,4 +47,12 @@ LeetCode Algorithm Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JYLeem/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/JYLeem/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/JYLeem/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 <!---LeetCode Topics End-->
