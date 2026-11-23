@@ -11,6 +11,7 @@ LeetCode Algorithm Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JYLeem/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JYLeem/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/JYLeem/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JYLeem/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/JYLeem/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/JYLeem/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/JYLeem/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -97,5 +98,10 @@ LeetCode Algorithm Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/JYLeem/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JYLeem/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/JYLeem/LeetCode/tree/main/0189-rotate-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/JYLeem/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
