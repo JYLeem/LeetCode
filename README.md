@@ -7,6 +7,7 @@ LeetCode Algorithm Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JYLeem/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JYLeem/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/JYLeem/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0189-rotate-array](https://github.com/JYLeem/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/JYLeem/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -36,6 +37,7 @@ LeetCode Algorithm Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JYLeem/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JYLeem/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/JYLeem/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -56,6 +58,7 @@ LeetCode Algorithm Solutions
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JYLeem/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/JYLeem/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
