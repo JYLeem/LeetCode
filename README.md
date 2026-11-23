@@ -53,6 +53,7 @@ LeetCode Algorithm Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JYLeem/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0125-valid-palindrome](https://github.com/JYLeem/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/JYLeem/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0791-custom-sort-string](https://github.com/JYLeem/LeetCode/tree/main/0791-custom-sort-string/) | Medium |
 ## Sliding Window
@@ -95,5 +96,6 @@ LeetCode Algorithm Solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/JYLeem/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/JYLeem/LeetCode/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
