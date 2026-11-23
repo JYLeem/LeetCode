@@ -8,6 +8,7 @@ LeetCode Algorithm Solutions
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JYLeem/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0130-surrounded-regions](https://github.com/JYLeem/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
+| [0189-rotate-array](https://github.com/JYLeem/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/JYLeem/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/JYLeem/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1020-number-of-enclaves](https://github.com/JYLeem/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -78,4 +79,12 @@ LeetCode Algorithm Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/JYLeem/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/JYLeem/LeetCode/tree/main/0189-rotate-array/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/JYLeem/LeetCode/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
