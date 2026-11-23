@@ -15,6 +15,7 @@ LeetCode Algorithm Solutions
 | [0130-surrounded-regions](https://github.com/JYLeem/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JYLeem/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/JYLeem/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/JYLeem/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/JYLeem/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/JYLeem/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1020-number-of-enclaves](https://github.com/JYLeem/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -63,6 +64,7 @@ LeetCode Algorithm Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JYLeem/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/JYLeem/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +112,9 @@ LeetCode Algorithm Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JYLeem/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/JYLeem/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/JYLeem/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
