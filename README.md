@@ -8,6 +8,7 @@ LeetCode Algorithm Solutions
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/JYLeem/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/JYLeem/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0036-valid-sudoku](https://github.com/JYLeem/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0045-jump-game-ii](https://github.com/JYLeem/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/JYLeem/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JYLeem/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -38,6 +39,7 @@ LeetCode Algorithm Solutions
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/JYLeem/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0130-surrounded-regions](https://github.com/JYLeem/LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [1020-number-of-enclaves](https://github.com/JYLeem/LeetCode/tree/main/1020-number-of-enclaves/) | Medium |
 ## Dynamic Programming
@@ -53,6 +55,7 @@ LeetCode Algorithm Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/JYLeem/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0036-valid-sudoku](https://github.com/JYLeem/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/JYLeem/LeetCode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0791-custom-sort-string](https://github.com/JYLeem/LeetCode/tree/main/0791-custom-sort-string/) | Medium |
 ## String
